@@ -21,7 +21,7 @@
 |8A|Swith socket<br>スイッチソケット|36|cherry MX互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |8B|Swith socket<br>スイッチソケット|36|choc互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |9|Diode<br>ダイオード|36|リードタイプでもSMDでも可|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
-|10|AZ-CORE|1|whiteでもBlackでも可|[パレットシステムAZ-CORE](https://booth.pm/ja/items/3985327)[パレットシステムAZ-CORE BLACK](https://booth.pm/ja/items/4086382)|9500円|
+|10|AZ-CORE|1|whiteでもBlackでも可|[パレットシステムAZ-CORE](https://booth.pm/ja/items/3985327)<br>[パレットシステムAZ-CORE BLACK](https://booth.pm/ja/items/4086382)|9500円|
 |11|PAnda_micro|2||[パレットシステムPada_micro](https://booth.pm/ja/items/3959822)|500円〜|
 |12|AZ1UBALL|0〜2||[パレットシステムAZ1UBALL](https://booth.pm/ja/items/4202085)|2500円|
 
