@@ -24,3 +24,10 @@ You can use CherryMX alone, Choc alone, or both together.
 By giving choc to my thumb and cherryMX switches to my other fingers, I can type with a very comfortable posture.
 <br>
 
+# Build guide
+
+soon.
+
+# Firmware
+[AZTOOL](https://github.com/palette-system/aztool)
+
