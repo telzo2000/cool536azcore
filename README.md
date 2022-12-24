@@ -26,7 +26,10 @@ By giving choc to my thumb and cherryMX switches to my other fingers, I can type
 
 # Build guide
 
-soon.
+https://github.com/telzo2000/cool536azcore/blob/main/buildguide_for_cool536azcore.md
+<br>
+Photo later.
+<br>
 
 # Firmware
 [AZTOOL](https://github.com/palette-system/aztool)
