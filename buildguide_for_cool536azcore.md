@@ -234,41 +234,17 @@ At that time, solder the 4 jumpers on the back side (lower side) of the PCB wher
 その時は、AZ1UBALLを取り付けるPCBの裏側（下面）のジャンパー４箇所をハンダで繋いでください。
 <br><br>
 
+![](img/img00019.jpg)
+
 ## Build 2(Acrylic sandwich mount case)
 
-![](img/img00020.jpg)
 
 After 1 ~ 5 of build1, please do the next step.
 <br>
 build1の5の後、次の工程をしてください。
 <br>
 
-### 1 Installation of cover plate
-
-Prepare a cover plate, M2 spacer 8mm（x3）, and M2 screw 4mm（x6）.
-<br>
-カバープレート、M2スペーサー8mm（3個）、M2ネジ3mm（6本）を用意します。
-<br>
-Screw the spacer to the cover plate in the same orientation.
-<br>
-カバープレートに同じ向きで、スペーサーをネジで固定します。
-<br>
-Then use the remaining screws to attach the cover plate to the PCB.
-<br>
-次に、残りのネジを使い、カバープレートをPCBに取り付けます。
-<br>
-There is an orientation of the cover plate, so it is good to check it once before starting work.
-<br>
-カバープレートの向きがあり、作業前に一度、重ねて確認すると良いです。
-<br>
-<br>
-A special cover plate is required when installing AZ1UBALL.
-<br>
-AZ1UBALLを取り付けているとき、専用のカバープレートが必要となります。
-<br><br>
-
-
-### 2-1 Installation of switch plate（choc switch）
+### 1-1 Installation of switch plate（choc switch）
 
 The switch plate consists of two parts, one for the thumb and the other for the fingers.
 <br>
@@ -287,9 +263,19 @@ Insert the screws in the order of the switch plate and the PCB, and fix them wit
 ネジはスイッチプレート、PCBの順でさしこみ、PCBの裏面でスペーサーで固定します。
 <br>
 
-<br>
+![](img/img00020.jpg)
 
-### 2-2 Installation of switch plate（cherry MX switch）
+![](img/img00021.jpg)
+
+![](img/img00022.jpg)
+
+![](img/img00023.jpg)
+
+
+
+<br><br>
+
+### 1-2 Installation of switch plate（cherry MX switch）
 
 The switch plate consists of two parts, one for the thumb and the other for the fingers.
 <br>
@@ -308,12 +294,23 @@ Insert the switch plate into the screw and fix it with a spacer.
 <br>
 ネジはスイッチプレートをさしこみ、スペーサーで固定します。
 <br>
+
+![](img/img00009.jpg)
+
+![](img/img00010.jpg)
+
 Next, insert the switch plate into the PCB and secure it with a spacer on the back of the PCB.
 <br>
 次に、スイッチプレートをPCBにさしこみ、PCBの裏面でスペーサーで固定します。
 <br>
 
-### 3 Installation of bottom plate 
+![](img/img00014.jpg)
+
+
+<br>
+<br>
+
+### 2 Installation of bottom plate 
 
 Prepare the bottom plate,M2 spacer 3 mm（x３）,M2 ３mm screws（x7） and M2 8mm screws(x3).
 <br>
@@ -326,6 +323,44 @@ PCB裏面にあるスペーサーに合わせて、ボトムプレートをの�
 However, 8mm screws and spacers are used for the part that connects to the cover plate fixing.
 <br>
 ただし、カバープレート固定に繋がる部分は、8mmネジとスペーサーを使います。
+
+![](img/img00015.jpg)
+
+![](img/img00016.jpg)
+
+![](img/img00017.jpg)
+
+### 3 Installation of cover plate
+
+Prepare a cover plate, M2 spacer 8mm（x3）, and M2 screw 4mm（x6）.
+<br>
+カバープレート、M2スペーサー8mm（3個）、M2ネジ3mm（6本）を用意します。
+<br>
+Screw the spacer to the cover plate in the same orientation.
+<br>
+カバープレートに同じ向きで、スペーサーをネジで固定します。
+<br>
+
+![](img/img00012.jpg)
+
+![](img/img00013.jpg)
+
+Then attach the cover plate to the PCB by adjusting the screw on the bottom plate side.
+<br>
+次に、ボトムプレート側のネジを調整して、カバープレートをPCBに取り付けます。
+![](img/img00018.jpg)
+
+<br>
+There is an orientation of the cover plate, so it is good to check it once before starting work.
+<br>
+カバープレートの向きがあり、作業前に一度、重ねて確認すると良いです。
+<br>
+<br>
+A special cover plate is required when installing AZ1UBALL.
+<br>
+AZ1UBALLを取り付けているとき、専用のカバープレートが必要となります。
+<br><br>
+
 
 <br>
 From here, proceed with step 6 of build1.
