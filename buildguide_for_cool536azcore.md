@@ -199,6 +199,10 @@ Please write the firmware and check the operation.
 [Here](https://github.com/palette-system/aztool)
 
 <br>
+
+### cool536azcore <--> AZ-CORE
+[Here](https://github.com/telzo2000/cool536azcore/blob/main/aztool_for_cool536azcore.md)
+
 <br>
 
 
