@@ -29,4 +29,4 @@ https://palette-system.github.io/aztool/
 
 ![](img/img00008.png)
 
-ここから先は、説明しません。AZTOOLの指示に従えば、大丈夫です。
+ここから先は、AZTOOLの指示に従えば、大丈夫です。
