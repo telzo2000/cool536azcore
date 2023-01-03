@@ -236,6 +236,22 @@ At that time, solder the 4 jumpers on the back side (lower side) of the PCB wher
 
 ![](img/img00019.jpg)
 
+Notice
+<br>
+The silk text is wrong. (ver.1.01)
+<br>
+注意
+<br>
+シルクの文章が間違っています。（ver.1.01）
+<br>
+
+![](img/img00024.png)
+
+
+<br>
+<br>
+
+
 ## Build 2(Acrylic sandwich mount case)
 
 
