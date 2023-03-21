@@ -164,6 +164,13 @@ You can make it easier by working while holding it with tweezers.
 
 ### 4　Soldering 7pins 
 
+First, solder the jumper on the top of the cool536azcore2 that attaches the AZ-CORE.
+<br>
+最初に、AZ-COREを付けるcool536azcore2の上面のジャンパにハンダ付けをしてください。
+<br>
+
+![](img/img00035.jpg)
+
 
 The connection between AZ-CORE and cool536azcore2 is done with 7 pins.
 <br>
