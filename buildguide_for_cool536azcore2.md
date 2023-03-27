@@ -201,6 +201,32 @@ By doing this, the power supply of AZ-CORE will be on the outside, making it eas
 この向きにすることで、AZ-COREの電源が外側になり、操作しやすくなります。
 <br>
 <br>
+<br>
+
+#### Notice
+
+When using the PCB in this orientation, the left red circle contains the GND, VCC, SCL, and SDA pins in order from the left.
+<br>
+In the right red circle, from the left, the pins are SCL, SDA, VCC, none, none, none, none, and GND.
+<br><br>
+PCBをこの向きで使用するとき、左赤丸枠内は左から順にGND、VCC、SCL、SDAのピンになります。
+<br>
+右赤丸枠内は左から順にSCL、SDA、VCC、なし、なし、なし、なし、GNDのピンになります。
+
+![](img/img00036.png)
+
+<br><br><br>
+
+When using the PCB in this orientation, the GND, VCC, SCL, and SDA pins are in order from the left inside the right red circle.
+<br>
+In the left red circle, from the left, the pins are GND, None, None, None, None, VCC, SDA, and SCL.
+<br><br>
+PCBをこの向きで使用するとき、右赤丸枠内は左から順にGND、VCC、SCL、SDAのピンになります。
+<br>
+左赤丸枠内は左から順にGND、なし、なし、なし、なし、VCC、SDA、SCLのピンになります。
+
+![](img/img00037.png)
+
 
 ### 5 Rotery Encoder
 
