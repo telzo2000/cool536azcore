@@ -205,6 +205,12 @@ By doing this, the power supply of AZ-CORE will be on the outside, making it eas
 
 #### Notice
 
+Check continuity with a tester. If that doesn't work, use a hot soldering iron to heat the soldered area of ​​the pin.
+<br>
+<br>
+テスターにて導通の確認をしてください。うまくいかないときは、温めたはんだごてで、ピンのはんだ付け部分を温めてください。
+<br>
+<br>
 When using the PCB in this orientation, the left red circle contains the GND, VCC, SCL, and SDA pins in order from the left.
 <br>
 In the right red circle, from the left, the pins are SCL, SDA, VCC, none, none, none, none, and GND.
