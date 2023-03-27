@@ -234,6 +234,9 @@ PCBをこの向きで使用するとき、右赤丸枠内は左から順にGND�
 ![](img/img00037.png)
 
 
+
+<br><br>
+
 ### 5 Rotery Encoder
 
 cool536azcore2 can have 2 switches and 1 rotary encoder on the side without AZ-CORE.
